@@ -1,0 +1,5 @@
+{
+  "name": "CosmoCalc Agent",
+  "description": "An agentic AI tool for automating primordial gravitational wave (PGW) and CMB spectrum calculations from inflationary theories and actions.",
+  "requestFramePermissions": []
+}
